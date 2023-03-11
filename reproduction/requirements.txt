@@ -1,0 +1,11 @@
+fairseq-tupe-tpu-pytorch-v1.9/
+progressbar2
+seqeval
+scipy
+tensorboardX
+sentencepiece
+
+youtokentome
+fastBPE
+psutil
+torch_xla[tpuvm]
